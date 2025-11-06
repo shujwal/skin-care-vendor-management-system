@@ -1,0 +1,5 @@
+Vitamin C Serum, Garnier, 9000, 1000, France
+Skin Cleasner, Cetaphil, 12000, 280, Switzerland
+Sunscreen, Aqualogica, 4050, 700, India
+new, arial, 5232, 600, nepal
+soap, delux, 6565, 500, china
