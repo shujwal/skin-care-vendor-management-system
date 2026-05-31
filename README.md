@@ -26,13 +26,15 @@ A menu-driven terminal application built in Python to help small businesses mana
 
 ## 📁 Project Structure
 
+```
 inventory-management-system/
+│
 ├── main.py          # Entry point — runs the menu loop
 ├── inventory.py     # Stock management logic
 ├── sales.py         # Sales processing
 ├── purchase.py      # Purchase order handling
 └── invoice.py       # Invoice generation
----
+```
 
 ## 👤 Author
 
