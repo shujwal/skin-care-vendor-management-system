@@ -20,8 +20,8 @@ A menu-driven terminal application built in Python to help small businesses mana
 
 - **Language:** Python 3
 - **Interface:** Terminal / Command Line
-- **Paradigm:** Object-Oriented Programming (OOP)
-
+- **Paradigm:** Procedural Programming
+  
 ---
 
 ## 📁 Project Structure
